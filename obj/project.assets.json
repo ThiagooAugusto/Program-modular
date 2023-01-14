@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/Exercicio-3-Lista-ordenada-de-Utentes/main.csproj",
+      "projectUniqueName": "/home/runner/Exercicio-5-Insercao-de-uma-Lista-Noutra/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/Exercicio-3-Lista-ordenada-de-Utentes/main.csproj",
+      "projectPath": "/home/runner/Exercicio-5-Insercao-de-uma-Lista-Noutra/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/Exercicio-3-Lista-ordenada-de-Utentes/obj/",
+      "outputPath": "/home/runner/Exercicio-5-Insercao-de-uma-Lista-Noutra/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
