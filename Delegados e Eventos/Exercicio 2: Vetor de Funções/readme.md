@@ -1,0 +1,1 @@
+Programa que define um delegado para executar funções e adicionar os repectivos resultados
