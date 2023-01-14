@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/Exercicio-7Implementar-a-IPessoa/main.csproj": {}
+    "/home/runner/Exercicio-8-Empregados-e-Salarios/main.csproj": {}
   },
   "projects": {
-    "/home/runner/Exercicio-7Implementar-a-IPessoa/main.csproj": {
+    "/home/runner/Exercicio-8-Empregados-e-Salarios/main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/Exercicio-7Implementar-a-IPessoa/main.csproj",
+        "projectUniqueName": "/home/runner/Exercicio-8-Empregados-e-Salarios/main.csproj",
         "projectName": "main",
-        "projectPath": "/home/runner/Exercicio-7Implementar-a-IPessoa/main.csproj",
+        "projectPath": "/home/runner/Exercicio-8-Empregados-e-Salarios/main.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/Exercicio-7Implementar-a-IPessoa/obj/",
+        "outputPath": "/home/runner/Exercicio-8-Empregados-e-Salarios/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"
