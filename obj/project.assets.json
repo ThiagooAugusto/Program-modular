@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/Exercicio-8-Ordenacao-de-pesos/main.csproj",
+      "projectUniqueName": "/home/runner/Exercicio-9-Ordenacao-de-Nomes-com-Delegados/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/Exercicio-8-Ordenacao-de-pesos/main.csproj",
+      "projectPath": "/home/runner/Exercicio-9-Ordenacao-de-Nomes-com-Delegados/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/Exercicio-8-Ordenacao-de-pesos/obj/",
+      "outputPath": "/home/runner/Exercicio-9-Ordenacao-de-Nomes-com-Delegados/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
