@@ -1,0 +1,1 @@
+Define um indexador para a classe MaterialEscolar , de modo que seja possível consultar os elementos da lista e inserir outros elementos, como se se tratasse de um vetor. A inserção de um elemento não deverá obrigar ao preenchimento de todos os elementos anteriores.
