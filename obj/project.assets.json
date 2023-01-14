@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/Exercicio-4-Sublista-de-Nomes/main.csproj",
+      "projectUniqueName": "/home/runner/Exercicio-3-Lista-ordenada-de-Utentes/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/Exercicio-4-Sublista-de-Nomes/main.csproj",
+      "projectPath": "/home/runner/Exercicio-3-Lista-ordenada-de-Utentes/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/Exercicio-4-Sublista-de-Nomes/obj/",
+      "outputPath": "/home/runner/Exercicio-3-Lista-ordenada-de-Utentes/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
