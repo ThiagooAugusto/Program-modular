@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/Exercicio-4-Nome-Completo/main.csproj",
+      "projectUniqueName": "/home/runner/Exercicio-5-Areas-e-Perimetros/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/Exercicio-4-Nome-Completo/main.csproj",
+      "projectPath": "/home/runner/Exercicio-5-Areas-e-Perimetros/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/Exercicio-4-Nome-Completo/obj/",
+      "outputPath": "/home/runner/Exercicio-5-Areas-e-Perimetros/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"

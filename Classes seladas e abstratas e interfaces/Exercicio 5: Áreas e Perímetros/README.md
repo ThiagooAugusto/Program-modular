@@ -1,0 +1,1 @@
+Implementar a interface IMedidas para as classes Quadrado e Triangulo
