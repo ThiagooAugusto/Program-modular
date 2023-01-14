@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/Exercicio-8-Empregados-e-Salarios/main.csproj": {}
+    "/home/runner/Exercicio-9-Servico-Social/main.csproj": {}
   },
   "projects": {
-    "/home/runner/Exercicio-8-Empregados-e-Salarios/main.csproj": {
+    "/home/runner/Exercicio-9-Servico-Social/main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/Exercicio-8-Empregados-e-Salarios/main.csproj",
+        "projectUniqueName": "/home/runner/Exercicio-9-Servico-Social/main.csproj",
         "projectName": "main",
-        "projectPath": "/home/runner/Exercicio-8-Empregados-e-Salarios/main.csproj",
+        "projectPath": "/home/runner/Exercicio-9-Servico-Social/main.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/Exercicio-8-Empregados-e-Salarios/obj/",
+        "outputPath": "/home/runner/Exercicio-9-Servico-Social/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"
