@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dZtJ7XJ+J3KEL4is9riT2gBJ6UjAkKVqNf3Vq2GGHvxDMxPO7gI447DyCst10yRQu6L4H9KvQ8JU1WKRh5kubA==",
+  "dgSpecHash": "myvqOJt2ctc1UZZnuwJ0nGwXGZ7OoY1hCXy8ZlGi/nuVtBgfEGhqsqvH3JneqcF6rSF6DqUGODIlgjZCoPTE+g==",
   "success": true,
-  "projectFilePath": "/home/runner/Exercicio-3-Composicao-de-Funcoes/main.csproj",
+  "projectFilePath": "/home/runner/Exercicio-4-Combinacao-de-delegados/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
