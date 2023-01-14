@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/Exercicio-3-Avaliacao-de-Empresas/main.csproj",
+      "projectUniqueName": "/home/runner/Exercicio-4-Nome-Completo/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/Exercicio-3-Avaliacao-de-Empresas/main.csproj",
+      "projectPath": "/home/runner/Exercicio-4-Nome-Completo/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/Exercicio-3-Avaliacao-de-Empresas/obj/",
+      "outputPath": "/home/runner/Exercicio-4-Nome-Completo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
