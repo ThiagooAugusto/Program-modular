@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/CSharp/main.csproj": {}
+    "/home/runner/Exercicio-2-Limites-Para-Estradas/main.csproj": {}
   },
   "projects": {
-    "/home/runner/CSharp/main.csproj": {
+    "/home/runner/Exercicio-2-Limites-Para-Estradas/main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/CSharp/main.csproj",
+        "projectUniqueName": "/home/runner/Exercicio-2-Limites-Para-Estradas/main.csproj",
         "projectName": "main",
-        "projectPath": "/home/runner/CSharp/main.csproj",
+        "projectPath": "/home/runner/Exercicio-2-Limites-Para-Estradas/main.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/CSharp/obj/",
+        "outputPath": "/home/runner/Exercicio-2-Limites-Para-Estradas/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"
