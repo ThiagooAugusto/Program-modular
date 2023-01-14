@@ -1,0 +1,1 @@
+A partir do exercicio 4, mostrar que um método pode ser removido de um delegado por um operador de atribuição
