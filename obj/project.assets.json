@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/Exercicio-9-Ordenacao-de-Nomes-com-Delegados/main.csproj",
+      "projectUniqueName": "/home/runner/Exercicio-10-Ocorrencia-de-multiplos-de-5-e-resposta/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/Exercicio-9-Ordenacao-de-Nomes-com-Delegados/main.csproj",
+      "projectPath": "/home/runner/Exercicio-10-Ocorrencia-de-multiplos-de-5-e-resposta/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/Exercicio-9-Ordenacao-de-Nomes-com-Delegados/obj/",
+      "outputPath": "/home/runner/Exercicio-10-Ocorrencia-de-multiplos-de-5-e-resposta/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
