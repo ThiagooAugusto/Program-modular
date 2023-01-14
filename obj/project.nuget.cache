@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "myvqOJt2ctc1UZZnuwJ0nGwXGZ7OoY1hCXy8ZlGi/nuVtBgfEGhqsqvH3JneqcF6rSF6DqUGODIlgjZCoPTE+g==",
+  "dgSpecHash": "CYu/5Z9iewyzQl4s0Ek95lmvhFCzlKb0u/cNv+6kbj0cqQ4ORMerJpJfdP9CYl5iFjkuiA6H2SqKiHO+zksZ4w==",
   "success": true,
-  "projectFilePath": "/home/runner/Exercicio-4-Combinacao-de-delegados/main.csproj",
+  "projectFilePath": "/home/runner/Exercicio-5-Remocao-de-Delegados/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
