@@ -1,0 +1,1 @@
+definir a classe Vendas e as classes derivadas VendasProdA e VendasProdB
