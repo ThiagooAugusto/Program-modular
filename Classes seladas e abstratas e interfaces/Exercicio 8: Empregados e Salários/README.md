@@ -1,0 +1,1 @@
+Definir uma classe Empregado que deriva da classe Abstrata Pessoa e da interface IEmpregado. Elaborar programa para testar.
