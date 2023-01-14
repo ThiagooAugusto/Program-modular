@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/Exercicio-5-Areas-e-Perimetros/main.csproj": {}
+    "/home/runner/CSharp/main.csproj": {}
   },
   "projects": {
-    "/home/runner/Exercicio-5-Areas-e-Perimetros/main.csproj": {
+    "/home/runner/CSharp/main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/Exercicio-5-Areas-e-Perimetros/main.csproj",
+        "projectUniqueName": "/home/runner/CSharp/main.csproj",
         "projectName": "main",
-        "projectPath": "/home/runner/Exercicio-5-Areas-e-Perimetros/main.csproj",
+        "projectPath": "/home/runner/CSharp/main.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/Exercicio-5-Areas-e-Perimetros/obj/",
+        "outputPath": "/home/runner/CSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"
