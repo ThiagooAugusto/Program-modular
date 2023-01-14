@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CYu/5Z9iewyzQl4s0Ek95lmvhFCzlKb0u/cNv+6kbj0cqQ4ORMerJpJfdP9CYl5iFjkuiA6H2SqKiHO+zksZ4w==",
+  "dgSpecHash": "NmruBTUCrhovgZyAPox6QmWiJ2oDsYBX1C9IBBSXJ3+wKMlhaAdKb773gqbJ1kxXGx2UdYJf4PHQwGd29Hugyw==",
   "success": true,
-  "projectFilePath": "/home/runner/Exercicio-5-Remocao-de-Delegados/main.csproj",
+  "projectFilePath": "/home/runner/Exercicio-6-Passagem-de-parametros-a-delegado/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

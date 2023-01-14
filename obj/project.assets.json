@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/Exercicio-5-Remocao-de-Delegados/main.csproj",
+      "projectUniqueName": "/home/runner/Exercicio-6-Passagem-de-parametros-a-delegado/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/Exercicio-5-Remocao-de-Delegados/main.csproj",
+      "projectPath": "/home/runner/Exercicio-6-Passagem-de-parametros-a-delegado/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/Exercicio-5-Remocao-de-Delegados/obj/",
+      "outputPath": "/home/runner/Exercicio-6-Passagem-de-parametros-a-delegado/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
