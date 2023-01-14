@@ -1,0 +1,1 @@
+Programa que implementa um delegado para imprimir um triangulo de 10 linhas de altura
