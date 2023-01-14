@@ -1,0 +1,1 @@
+Definir as classes Propriedade e suas subclasses Moradia e apartamento
