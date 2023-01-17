@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YHIunfhzaSK5sM82obPw84gOu8qOJZGAEn1JFuAVKE7bBasktiBeXcMARdJFPIG+kRq3Lk03IE0olOxy7ajAxw==",
+  "dgSpecHash": "NAQjleCg+CJnaGM0TBNSMkLcR7j6tkOD9XOVBdGwup5mZEmzNu7IZCyJ6FNbNif0IgHuDDyaT9WmFEzjEsTpvQ==",
   "success": true,
-  "projectFilePath": "/home/runner/Exercicio-5-Insercao-de-uma-Lista-Noutra/main.csproj",
+  "projectFilePath": "/home/runner/Exercicio-6-Pesquisa-e-Remocao-de-um-elemento/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

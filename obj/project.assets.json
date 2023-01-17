@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/Exercicio-5-Insercao-de-uma-Lista-Noutra/main.csproj",
+      "projectUniqueName": "/home/runner/Exercicio-6-Pesquisa-e-Remocao-de-um-elemento/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/Exercicio-5-Insercao-de-uma-Lista-Noutra/main.csproj",
+      "projectPath": "/home/runner/Exercicio-6-Pesquisa-e-Remocao-de-um-elemento/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/Exercicio-5-Insercao-de-uma-Lista-Noutra/obj/",
+      "outputPath": "/home/runner/Exercicio-6-Pesquisa-e-Remocao-de-um-elemento/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
