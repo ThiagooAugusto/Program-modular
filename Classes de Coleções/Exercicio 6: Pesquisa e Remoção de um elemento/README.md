@@ -1,0 +1,1 @@
+Elaborar programa que, dada uma matriz dinâmica de localidades , eliminar uma determinada localidade. Se a localidade pretendida não existir na matriz ,deve ser afixada uma mensagem apropriada.

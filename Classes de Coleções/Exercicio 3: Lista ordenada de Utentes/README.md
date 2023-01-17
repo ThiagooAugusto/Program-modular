@@ -1,0 +1,1 @@
+Programa que lê um numero indeterminado de utentes(usuários) para uma matriz dinâmica(arraylist). Em seguida os nomes serão ordenados por ordem alfabética e impressos.
