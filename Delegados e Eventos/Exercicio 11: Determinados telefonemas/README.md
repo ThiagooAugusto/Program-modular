@@ -1,0 +1,1 @@
+Um sistema de voice mail notifica(produtor) um endereço de email(consumidor) sempre que determinada pessoa telefona. O sistema de email acusa a recepção da notificação imprimindo uma mensagem(resposta). 
