@@ -1,0 +1,1 @@
+Programa que registra num pilha os códigos de processos entreguesa determinada escriturária e imprima segundo o critério lifo a sua resolução

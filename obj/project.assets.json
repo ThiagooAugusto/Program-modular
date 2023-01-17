@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/Exercicio-1-Ordenacao-e-inversao-vetor/main.csproj",
+      "projectUniqueName": "/home/runner/Exercicio-1-Delegado-para-Restos/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/Exercicio-1-Ordenacao-e-inversao-vetor/main.csproj",
+      "projectPath": "/home/runner/Exercicio-1-Delegado-para-Restos/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/Exercicio-1-Ordenacao-e-inversao-vetor/obj/",
+      "outputPath": "/home/runner/Exercicio-1-Delegado-para-Restos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
