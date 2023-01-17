@@ -1,0 +1,1 @@
+Definir a classe Utente que implementa a interface do exercício anterior e imprime o nome e idade

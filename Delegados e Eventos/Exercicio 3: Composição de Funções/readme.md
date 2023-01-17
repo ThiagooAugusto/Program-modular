@@ -1,0 +1,1 @@
+Defina um delegado que permite calcular a função composta: o triplo do dobro de um inteiro. g(f(x)).
