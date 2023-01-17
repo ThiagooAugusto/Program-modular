@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/Exercicio-10-Fila-de-Espera-ao-minuto-x/main.csproj",
+      "projectUniqueName": "/home/runner/Exercicio-11-Pilha-de-processos/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/Exercicio-10-Fila-de-Espera-ao-minuto-x/main.csproj",
+      "projectPath": "/home/runner/Exercicio-11-Pilha-de-processos/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/Exercicio-10-Fila-de-Espera-ao-minuto-x/obj/",
+      "outputPath": "/home/runner/Exercicio-11-Pilha-de-processos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
