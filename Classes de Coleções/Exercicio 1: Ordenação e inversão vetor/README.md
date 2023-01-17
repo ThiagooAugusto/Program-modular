@@ -1,0 +1,1 @@
+Programa que recorre aos métodos da classe Array e a classe MaisMetodosArrays p/ ordenar, por ordem crescente e decrescente, um vetor de inteiros.
